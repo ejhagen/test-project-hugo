@@ -1,16 +1,14 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "Optimal Air Testing Services"
+header_tagline_paragraph: "Welcome to Optimal Air Testing's website. With headquarters in Casper, Wyoming, we serve the greater Rocky Mountain region and into the great plains. We're glad you're here. You can find a contact form below."
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
-header_button_more:
-  url: "#the-future---today"
-  title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+teaser_image: "images/teaser.jpg" # https://wnax-am.sagacom.com/files/2020/09/Coal-fired-power-plant-090920-2048x1365.jpg
 ---
 
-# The Future - Today!
+# Emissions Testing Solutions
+
 
 Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
 
