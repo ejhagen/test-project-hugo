@@ -4,7 +4,8 @@ header_tagline_paragraph: "Welcome to Optimal Air Testing's website. With headqu
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
-teaser_image: "images/teaser.jpg" # https://wnax-am.sagacom.com/files/2020/09/Coal-fired-power-plant-090920-2048x1365.jpg
+teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+
 ---
 
 # Emissions Testing Solutions
